@@ -1,1 +1,1 @@
-# shop.manager.api.http
+# Shop Api Http
